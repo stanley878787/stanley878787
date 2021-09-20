@@ -1,5 +1,5 @@
 ### Hi I'm 87林修同👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanley878787&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stanley878787&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
